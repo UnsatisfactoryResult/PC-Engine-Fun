@@ -1,2 +1,2 @@
 # PC-Engine-Fun
-Random info about PC Engine related things
+Random info about NEC's PC Engine series of consoles and accessories.
